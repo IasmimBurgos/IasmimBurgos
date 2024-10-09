@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9D2DC8&width=435&lines=Ol%C3%A1!!+Me+chamo+Iasmim.)](https://git.io/typing-svg)
 
 <div>
-  <img src="https://i.gifer.com/4xjK.gif" width="200" height="100">
+<img src="https://i.gifer.com/4xjK.gif" width="200" height="100">
 </div>
 
 <br>
